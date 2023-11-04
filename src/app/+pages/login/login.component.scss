@@ -1,0 +1,33 @@
+.login-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 30vw;
+  height: 57%;
+  // border: solid 30% 1px black;
+  background-color: #f5f3f4;
+}
+.login-full-width {
+  width: 70%;
+}
+.container {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.login-full {
+  width: 70%;
+  margin-top: 5vh;
+}
+body {
+  height: 100%;
+  width: 100%;
+}
+.button {
+  margin: 40px;
+}
+// ::ng-deep.mat-form-field-inpute {
+//   background-color: green !important;
+//   /*change color of underline when focused*/
+//  }
